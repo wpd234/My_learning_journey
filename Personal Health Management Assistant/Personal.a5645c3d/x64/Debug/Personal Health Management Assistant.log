@@ -1,0 +1,91 @@
+﻿  Diet.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Diet.cpp”)
+  
+  FileManager.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“FileManager.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\Sport.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“FileManager.cpp”)
+  
+  GoalManager.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GoalManager.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\Sport.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“GoalManager.cpp”)
+  
+  HealthAnalyzer.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“HealthAnalyzer.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\Sport.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“HealthAnalyzer.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(60,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(344,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(345,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(346,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(351,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(357,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(358,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(359,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(365,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(366,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(371,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(377,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(378,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(384,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(390,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(396,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(397,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(398,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(404,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(405,17): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(412,21): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\W\Desktop\Personal Health Management Assistant\HealthAnalyzer.cpp(416,21): warning C4566: 由通用字符名称“\u2022”表示的字符不能在当前代码页(936)中表示出来
+  LIfeStyle.cpp
+  main.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\UserManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\Sport.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+  RecordBase.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“RecordBase.cpp”)
+  
+  Sleep.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Sleep.cpp”)
+  
+  Sport.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\Sport.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Sport.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Sport.cpp”)
+  
+  Time.cpp
+  User.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“User.cpp”)
+  
+  UserManager.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\UserManager.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UserManager.cpp”)
+  
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“UserManager.cpp”)
+  
+  VitalSigns.cpp
+C:\Users\W\Desktop\Personal Health Management Assistant\User.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“VitalSigns.cpp”)
+  
+  正在生成代码...
+  Personal Health Management Assistant.vcxproj -> C:\Users\W\Desktop\Personal Health Management Assistant\x64\Debug\Personal Health Management Assistant.exe
